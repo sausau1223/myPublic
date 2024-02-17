@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+動態電子標籤控制器
+</name>
+</assembly>
+<members>
+<member name="P:動態電子標籤控制器.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:動態電子標籤控制器.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:動態電子標籤控制器.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:動態電子標籤控制器.Form1.自動產生直排架位">
+	<summary>
+ 自動產生直排架位
+ </summary>
+	<remarks></remarks>
+</member><member name="M:動態電子標籤控制器.Form1.自動產生橫排架位">
+	<summary>
+ 自動產生橫排架位
+ </summary>
+	<remarks></remarks>
+</member><member name="M:動態電子標籤控制器.Form1.自動產生直橫排架位">
+	<summary>
+ 自動產生橫排架位
+ </summary>
+	<remarks></remarks>
+</member><member name="M:動態電子標籤控制器.Form1.自動產生CheckBox">
+	<summary>
+ 自動產生CheckBox和Button
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
