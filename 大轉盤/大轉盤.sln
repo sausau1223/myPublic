@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大轉盤", "大轉盤\大轉盤.csproj", "{E6FA3B31-7914-44A5-BEBE-128426BBCA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{BD3B8CB9-B4C5-49E2-9266-1B40BF4F9FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication2", "WpfApplication2\WpfApplication2.csproj", "{ABCC93CD-7D39-47EF-904B-76A5C3073506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FA3B31-7914-44A5-BEBE-128426BBCA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FA3B31-7914-44A5-BEBE-128426BBCA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FA3B31-7914-44A5-BEBE-128426BBCA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FA3B31-7914-44A5-BEBE-128426BBCA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3B8CB9-B4C5-49E2-9266-1B40BF4F9FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3B8CB9-B4C5-49E2-9266-1B40BF4F9FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3B8CB9-B4C5-49E2-9266-1B40BF4F9FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3B8CB9-B4C5-49E2-9266-1B40BF4F9FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCC93CD-7D39-47EF-904B-76A5C3073506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCC93CD-7D39-47EF-904B-76A5C3073506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCC93CD-7D39-47EF-904B-76A5C3073506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCC93CD-7D39-47EF-904B-76A5C3073506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
